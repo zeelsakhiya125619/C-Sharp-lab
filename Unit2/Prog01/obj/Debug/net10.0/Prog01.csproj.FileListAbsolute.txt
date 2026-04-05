@@ -1,0 +1,15 @@
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\bin\Debug\net10.0\Prog01.exe
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\bin\Debug\net10.0\Prog01.deps.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\bin\Debug\net10.0\Prog01.runtimeconfig.json
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\bin\Debug\net10.0\Prog01.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\bin\Debug\net10.0\Prog01.pdb
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\refint\Prog01.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.pdb
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\ref\Prog01.dll
+C:\Users\darsh\OneDrive\Documents\C-Sharp-Lab\Unit2\Prog01\obj\Debug\net10.0\Prog01.sourcelink.json
